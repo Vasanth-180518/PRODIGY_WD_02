@@ -14,3 +14,5 @@ Language used: html,css and javascript
 ```index.html```:The main HTML file for the stopwatch web application.</br>
 ```style.css```: Directory containing CSS stylesheets.</br>
 ```script.js```:Directory containing JavaScript files.
+
+https://github.com/user-attachments/assets/73e81ae3-569c-4107-8378-11cbd1981d93
