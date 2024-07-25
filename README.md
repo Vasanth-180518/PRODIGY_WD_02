@@ -11,6 +11,6 @@ click the [demo](http://127.0.0.1:5500/index.html) to see result
 Language used: html,css and javascript
 
 ## File Structure
-```index.html```:The main HTML file for the stopwatch web application</br>.
+```index.html```:The main HTML file for the stopwatch web application.</br>
 ```style.css```: Directory containing CSS stylesheets.</br>
 ```script.js```:Directory containing JavaScript files
